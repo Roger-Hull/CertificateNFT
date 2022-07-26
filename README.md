@@ -28,4 +28,10 @@ If I were to create this again, I'd make a file specfically made for helper func
 
 ## Development Challenges:
 I found it conceptually challenging to structure an API push. 
+
+![image](https://user-images.githubusercontent.com/99841428/180931749-989c6c7e-470a-4888-82d0-f14027d267a1.png)
+
 Learning to load the solidity contract into the streamlit app was also challenging but very rewarding when the app pushed minted NFTs to the blockchain.
+
+![image](https://user-images.githubusercontent.com/99841428/180931820-735c9f16-5e3d-4dc6-a1c2-14c717b10708.png)
+
